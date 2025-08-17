@@ -2,10 +2,11 @@
 - 👋 Hi, I’m **Xinyu Huang**, a second year Mphil student in Compuer Science and Technology!
 - 📫 Contact with me : xinyuhuang0209@gmail.com
 - 🔗 My homepage is [Huang's Home](https://Souvenir-Yu.github.io/My-site/)
+  - Here are my notes of my study experiments
 
 # Github List
-- [x] 已完成
-- [ ] 未完成
+- [x] ActionHSMR
+- [ ] 3D pose estimation based on mechanical analysis
 
 <!---
 xinyu0209/xinyu0209 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
