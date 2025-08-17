@@ -1,5 +1,7 @@
 # A breif introduction of ME
-- 👋 Hi, I’m **Xinyu Huang**, a second year Mphil student in Compuer Science and Technology!
+- 👋 Hi, I’m **Xinyu Huang**
+  -  Undergraduate student of Information and Computing Science, Class of 2020, Nanjing University of Posts and Telecommunications
+  -  a second year Mphil student in BNBU
 - 📫 Contact with me : xinyuhuang0209@gmail.com
 - 🔗 My homepage is [Huang's Home](https://Souvenir-Yu.github.io/My-site/)
   - Here are my notes of my study experiments
