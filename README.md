@@ -3,6 +3,12 @@
 - 📫 Contact with me : xinyuhuang0209@gmail.com
 - 🔗 My homepage is [Huang's Home](https://Souvenir-Yu.github.io/My-site/)
   - Here are my notes of my study experiments
+  - 
+## 🔬 Research Interests
+- Computer Vision
+- 3D human pose estimation
+- 3D Reconstruction  
+- Medical image processing（haven't explored it yet, but I'm very interested）
 
 # Github List
 - [x] ActionHSMR
