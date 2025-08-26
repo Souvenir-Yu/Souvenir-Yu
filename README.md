@@ -3,7 +3,7 @@
   -  Undergraduate student of Information and Computing Science, Class of 2020, Nanjing University of Posts and Telecommunications
   -  a second year Mphil student in BNBU
 - 📫 Contact with me : xinyuhuang0209@gmail.com
-- 🔗 My homepage is [Huang's Home](https://Souvenir-Yu.github.io/My-site/)
+- 🔗 My homepage is [Huang's Home](https://Souvenir-Yu.github.io/My-site/) （Chinese）
   - Here are my notes of my study experiments
   - 
 ## 🔬 Research Interests
